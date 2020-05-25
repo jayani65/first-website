@@ -1,0 +1,11 @@
+table{border:5px solid black; width:100%;background-color:#800000; }
+a{
+ color:#FF00FF;
+}
+a:active{
+ color:#7FFF00;
+}
+ body{
+margin:10px 10px 10px 10px ;
+
+}
